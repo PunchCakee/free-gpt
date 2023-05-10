@@ -3,7 +3,10 @@ the gpt has been freed
 ![image](https://github.com/PunchCakee/free-gpt/assets/80383169/1fd86100-fe4d-444b-90a1-4cf1235a258c)
 
 # What is this?
-This is a terminal interface to use gpt4free from the terminal
+This is a terminal interface to use [gpt 4 for free](https://github.com/xtekky/gpt4free) from the terminal.
+
+# Why did you make it
+Because i don't really want to run a whole webapp just to get and recive text, it just uses too much ram (100 mb) for nothing really.
 
 # Whats the features?
 - can use from the terminal
