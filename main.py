@@ -3,7 +3,9 @@ from rich.console import Console
 from rich.markdown import Markdown
 from rich.prompt import Prompt
 from rich.pretty import pprint
+import os
 
+os.system('cls||clear')
 console = Console()
 
 def get_output(input: str) -> str:
