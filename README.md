@@ -1,6 +1,7 @@
 # free-gpt
 the gpt has been freed
 ![image](https://github.com/PunchCakee/free-gpt/assets/80383169/1fd86100-fe4d-444b-90a1-4cf1235a258c)
+![image](https://github.com/PunchCakee/free-gpt/assets/80383169/a652dad2-6618-4f69-aaff-9779b520a393)
 
 # What is this?
 This is a terminal interface to use [gpt 4 for free](https://github.com/xtekky/gpt4free) from the terminal.
