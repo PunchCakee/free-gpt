@@ -7,7 +7,7 @@ the gpt has been freed
 This is a terminal interface to use [gpt 4 for free](https://github.com/xtekky/gpt4free) from the terminal.
 
 # Why did you make it
-Because i don't really want to run a whole webapp just to get and recive text, it just uses too much ram (100 mb) for nothing really.
+Because i don't really want to run a whole webapp just to get and receive text, it just uses too much ram (100 mb) for nothing really.
 
 # Whats the features?
 - can use from the terminal
